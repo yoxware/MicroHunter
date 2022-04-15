@@ -57,4 +57,24 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+/Assets/Plugins/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset
+
+# IDEs
+**/bin/Debug
+**/bin/Release
+**/packages
+*.userprefs
+*.user
+test-results
+DerivedData
+xcuserdata
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Entitas
+Jenny.zip
+Jenny.zip.meta
+*.userproperties
 
